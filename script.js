@@ -69,9 +69,3 @@ class Pessoa {
 }
 
 console.log(new Pessoa('Leandro', 62, 1.64).calcularImc())
-
-// const amanda = new Pessoa('Amanda', 83, 1.63);
-// const leandro = new Pessoa('Leandro', 62, 1.64);
-
-// amanda.calcularImc()
-// leandro.calcularImc()
